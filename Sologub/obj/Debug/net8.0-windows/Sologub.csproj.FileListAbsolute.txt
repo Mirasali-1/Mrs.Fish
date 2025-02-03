@@ -1,0 +1,4 @@
+D:\Сологуб ИСП23.1А\Sologub\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Сологуб ИСП23.1А\Sologub\obj\Debug\net8.0-windows\App.g.cs
+D:\Сологуб ИСП23.1А\Sologub\obj\Debug\net8.0-windows\Sologub_MarkupCompile.cache
+D:\Сологуб ИСП23.1А\Sologub\obj\Debug\net8.0-windows\Sologub_MarkupCompile.lref
